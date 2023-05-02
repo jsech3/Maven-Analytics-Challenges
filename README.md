@@ -1,4 +1,4 @@
-## In this repository, you will find my submissions for a variety of Maven Analytics' Data Challenges. 
+## Here you will find my submissions for a number of Maven Analytics' Data Challenges. 
 
 ### I really enjoyed playing around with these datasets and hope you enjoy my work as well!
 
