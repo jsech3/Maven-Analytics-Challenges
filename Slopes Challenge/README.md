@@ -9,4 +9,5 @@ Link: [Check out this blog post on Maven Analytics](https://www.mavenanalytics.i
 
 For this project, I chose to use a combination of SQL, Power BI, and Python to get my results. I thought it was cool that many of these resorts offered Summer and even sometimes Night skiing. It's awesome to dig deeper into the data and get a better understanding of the WHY!
 
-![Background on Dataset:](/Maven-Analytics-Challenges/Slopes/Challenge/Slope_chal_pic.png)
+![Background on Dataset:](https://github.com/jsech3/Maven-Analytics-Challenges/blob/0f6d0320756945cd4eccf1f4ed6d35d985400a51/Slopes%20Challenge/Slopes_chal_pic.png)
+
